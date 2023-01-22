@@ -129,9 +129,11 @@ urlpatterns = [
 
 ```
 # OUTPUT:
-![output](.images/out.png)
+![output](out.png)
 
-![home](.images/home.png)
+## HOME:
+
+![home](home.png)
 
 # RESULT:
 
